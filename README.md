@@ -1,2 +1,2 @@
-# repo
+# test-repo
 My first repository
